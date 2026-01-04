@@ -93,7 +93,7 @@ function App() {
       <div style={{ maxWidth: '1150px', margin: '0 auto', padding: '40px 20px', display: 'flex', flexDirection: 'column', gap: '30px' }}>
 
         <header style={{ textAlign: 'center' }}>
-          <h1 style={{ fontSize: '2.5rem', color: '#fff', margin: 0 }}>Simulador Estocástico <span style={{ color: '#00C49F' }}>⚡</span></h1>
+          <h1 style={{ fontSize: '2.5rem', color: '#fff', margin: 0 }}>Simulador Estocástico <span style={{ color: '#00C49F' }}></span></h1>
           <p style={{ color: '#666' }}>Análisis de Datos y Proyección de Escenarios</p>
         </header>
 
