@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import {
   PieChart, Pie, Cell, Tooltip, ResponsiveContainer, Legend,
-  BarChart, Bar, XAxis, YAxis, CartesianGrid // <--- Agregamos BarChart
+  BarChart, Bar, XAxis, YAxis, CartesianGrid
 } from 'recharts';
 import { LayoutDashboard, Activity, Rocket, Download, BarChart2, Loader2 } from 'lucide-react';
 
